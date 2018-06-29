@@ -2,3 +2,4 @@ First line for the first commit
 Second line for the second commit
 Third line from no-ff-branch
 Fourth line from no-ff-branch
+Fifth line made in master branch ahead of 3wm-branch
