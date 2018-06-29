@@ -1,2 +1,4 @@
 First line for the first commit
 Second line for the second commit
+Third line from no-ff-branch
+Fourth line from no-ff-branch
