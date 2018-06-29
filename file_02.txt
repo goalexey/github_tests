@@ -1,2 +1,6 @@
 Hey, I am the file_02 and I was created in 3wm-branch.
+<<<<<<< HEAD
 Second line modified in master for merge conflict.
+=======
+Second line for the meeeeeeeerge conflict.
+>>>>>>> long-feature
